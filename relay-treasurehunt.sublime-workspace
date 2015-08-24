@@ -1,0 +1,2279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lastF",
+				"lastFoundY	[]int ν"
+			],
+			[
+				"base",
+				"baseY	int ν"
+			],
+			[
+				"Fprint",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
+				"NEw",
+				"NewSession	*signatures.DatabaseSession ƒ"
+			],
+			[
+				"index",
+				"indexErr	error ν"
+			],
+			[
+				"indexEr",
+				"addIndexToSignatureEmails	 ƒ"
+			],
+			[
+				"public",
+				"publicAssets"
+			],
+			[
+				"Int",
+				"Int31	int32 ƒ"
+			],
+			[
+				"main",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"legal",
+				"legal_representative"
+			],
+			[
+				"find",
+				"find_funding_request"
+			],
+			[
+				"dir",
+				"dir	Angular Module directive (simple)"
+			],
+			[
+				"selE",
+				"seller_contact"
+			],
+			[
+				"eac",
+				"each	Ruby each"
+			],
+			[
+				"contact",
+				"contact_attributes"
+			],
+			[
+				"eligibil",
+				"eligibility_messages"
+			],
+			[
+				"assets_",
+				"assets_count"
+			],
+			[
+				"transf",
+				"transfer_date"
+			],
+			[
+				"assets",
+				"assets_count"
+			],
+			[
+				"fnding",
+				"funding_request"
+			],
+			[
+				"user",
+				"user_with_funding_requests"
+			],
+			[
+				"street",
+				"street_complementary"
+			],
+			[
+				"naf_code",
+				"naf_code_label"
+			],
+			[
+				"debto",
+				"debtor_id"
+			],
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"change",
+				"change_table"
+			],
+			[
+				"find_or_create",
+				"find_or_create_company"
+			],
+			[
+				"erro",
+				"errors_on_debtor"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"write_json",
+				"write_json_property"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"write_",
+				"write_json_open"
+			],
+			[
+				"di",
+				"dir	Angular Module directive (simple)"
+			],
+			[
+				"DEFAULT_",
+				"DEFAULT_CENTER"
+			],
+			[
+				"add",
+				"addMarker"
+			],
+			[
+				"atat",
+				"attachments_3_hmtl"
+			],
+			[
+				"attachments",
+				"attachments_1_html"
+			],
+			[
+				"document",
+				"document_field"
+			],
+			[
+				"selleri",
+				"seller_information"
+			],
+			[
+				"inpt",
+				"input_html"
+			],
+			[
+				"font-si",
+				"font-size"
+			],
+			[
+				"icon",
+				"icon-size"
+			],
+			[
+				"line",
+				"line-width"
+			],
+			[
+				"fade-",
+				"fade-bg"
+			],
+			[
+				"campa",
+				"campaign"
+			],
+			[
+				"collection",
+				"collection_builder"
+			],
+			[
+				"logo",
+				"logo-height"
+			],
+			[
+				"seller_inf",
+				"seller_information"
+			],
+			[
+				"wrapper",
+				"wrapper_html"
+			],
+			[
+				"digital",
+				"digital_factoring_otpional"
+			],
+			[
+				"legl",
+				"legalRepresentativeForm"
+			],
+			[
+				"legalRe",
+				"legalRepresentativeForm"
+			],
+			[
+				"process",
+				"processQueue"
+			],
+			[
+				"ngclick",
+				"ng-click	AngularJS"
+			],
+			[
+				"ngbind",
+				"ng-bind	AngularJS"
+			],
+			[
+				"build",
+				"build_wrapper_html_options"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"radio",
+				"radio_buttons"
+			],
+			[
+				"cookiesPolicy",
+				"cookiesPolicyService"
+			],
+			[
+				"polic",
+				"cookie_policy"
+			],
+			[
+				"validates",
+				"validates_presence_of"
+			],
+			[
+				"redis-",
+				"redis-objects"
+			],
+			[
+				"money",
+				"money_cmp"
+			],
+			[
+				"DEFAULt",
+				"DEFAULT_DPP_RATIO"
+			],
+			[
+				"debtor",
+				"debtor_decile"
+			],
+			[
+				"fees",
+				"fees_ht"
+			],
+			[
+				"pdf",
+				"pdf_contract"
+			],
+			[
+				"MIN",
+				"MIN_ELIGIBLE_SCORE"
+			],
+			[
+				"redis",
+				"redis_configuration"
+			],
+			[
+				"REDIS",
+				"REDIS_PATH"
+			],
+			[
+				"acce",
+				"accepted_invoices"
+			],
+			[
+				"can_be",
+				"can_be_regenerated"
+			],
+			[
+				"seller",
+				"seller_requirements"
+			],
+			[
+				"req",
+				"requirements"
+			],
+			[
+				"head_",
+				"head_of_group_info"
+			],
+			[
+				"seller_",
+				"seller_company_info"
+			],
+			[
+				"nexkap",
+				"nexkap_score"
+			],
+			[
+				"eligib",
+				"eligibility"
+			],
+			[
+				"defail",
+				"defaillance"
+			],
+			[
+				"defa",
+				"defaillance"
+			],
+			[
+				"defaillan",
+				"defaillance_double"
+			],
+			[
+				"eligi",
+				"eligible"
+			],
+			[
+				"elig",
+				"eligible"
+			],
+			[
+				"it",
+				"it_behaves_like"
+			],
+			[
+				"not",
+				"not_to"
+			],
+			[
+				"comp",
+				"company_info"
+			],
+			[
+				"company",
+				"company_info"
+			],
+			[
+				"funding",
+				"funding_request"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"lne",
+				"line-height-base"
+			],
+			[
+				"connection",
+				"connection_error"
+			],
+			[
+				"ng",
+				"ng-if"
+			],
+			[
+				"cret",
+				"created_at"
+			],
+			[
+				"un",
+				"unknown"
+			],
+			[
+				"score_",
+				"score_nexkap_10"
+			],
+			[
+				"ongo",
+				"ongoing_expired"
+			],
+			[
+				"admin",
+				"admin_evaluation"
+			],
+			[
+				"grunt-contr",
+				"grunt-contrib-jshint"
+			],
+			[
+				"invoice",
+				"invoice_ids"
+			],
+			[
+				"compant",
+				"company_data_attributes"
+			],
+			[
+				"code",
+				"code_postal"
+			],
+			[
+				"accepted",
+				"accepted_balance"
+			],
+			[
+				"update",
+				"update_debtor_balances"
+			],
+			[
+				"api_",
+				"api_v1_admin_admin_users_path"
+			],
+			[
+				"investm",
+				"investment_conditions_filled"
+			],
+			[
+				"credit",
+				"credit_committee_vote_pending"
+			],
+			[
+				"admin_",
+				"admin_users"
+			],
+			[
+				"roles_",
+				"roles_array"
+			],
+			[
+				"investment",
+				"investment_committee_vote_pending"
+			],
+			[
+				"evaluable",
+				"evaluable_type"
+			],
+			[
+				"create",
+				"create_list"
+			],
+			[
+				"cre",
+				"credit_analyst"
+			],
+			[
+				"all_invoices",
+				"all_invoices_rejected"
+			],
+			[
+				"comment",
+				"comment_processor"
+			],
+			[
+				"survey",
+				"survey_validation"
+			],
+			[
+				"ids",
+				"ids_s"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"ok",
+				"ok_checks"
+			],
+			[
+				"check",
+				"check_prop"
+			],
+			[
+				"ko",
+				"ko_checks"
+			],
+			[
+				"def",
+				"def	Ruby/Rails Method"
+			],
+			[
+				"SUR",
+				"SURVEY_KO_CHECKS"
+			],
+			[
+				"fuding",
+				"funding_requests"
+			],
+			[
+				"pending",
+				"pending_acceptance"
+			],
+			[
+				"cmp",
+				"company_info"
+			],
+			[
+				"com",
+				"company_info"
+			],
+			[
+				"mod",
+				"mod	Angular Module controller"
+			],
+			[
+				"con",
+				"controller	\\$controller"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "data/schema.js",
+			"settings":
+			{
+				"buffer_size": 3660,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 123.0,
+		"last_filter": "install pack",
+		"selected_items":
+		[
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"removep ack",
+				"Package Control: Remove Package"
+			],
+			[
+				"settingsuser",
+				"Preferences: Settings - User"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"intall pack",
+				"Package Control: Install Package"
+			],
+			[
+				"new fil",
+				"ANF: New File"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"setting",
+				"GoSublime: Default Settings"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"git logc",
+				"Git: Log Current File"
+			],
+			[
+				"delet",
+				"ANF: Delete Current File"
+			],
+			[
+				"git lgc",
+				"Git: Log Current File"
+			],
+			[
+				"gitl  gc",
+				"Git: Log Current File"
+			],
+			[
+				"deletc",
+				"ANF: Delete Current File"
+			],
+			[
+				"git diffc",
+				"Git: Diff Current File"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"deltec",
+				"ANF: Delete Current File"
+			],
+			[
+				"deletec",
+				"ANF: Delete Current File"
+			],
+			[
+				"GoSublime: usage",
+				"GoSublime: Usage & Tips"
+			],
+			[
+				"sytnax go",
+				"Set Syntax: Go"
+			],
+			[
+				"syntax next",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"syntaxnext",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"syntax javascr",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gitlgc",
+				"Git: Log Current File"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rne",
+				"File: Rename"
+			],
+			[
+				"syntax coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"delc",
+				"ANF: Delete Current File"
+			],
+			[
+				"delec",
+				"ANF: Delete Current File"
+			],
+			[
+				"delte c",
+				"ANF: Delete Current File"
+			],
+			[
+				"syntaxgo",
+				"Set Syntax: GoSublime: Go"
+			],
+			[
+				"syntax go",
+				"Set Syntax: Go"
+			],
+			[
+				"syntaxmarkdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"removepack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"syntarub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"delete c",
+				"ANF: Delete Current File"
+			],
+			[
+				"renae",
+				"ANF: Rename File"
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"ren",
+				"ANF: Rename File"
+			],
+			[
+				"syntax bs",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"synta bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"synt",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git dc",
+				"Git: Diff Current File"
+			],
+			[
+				"gitdc",
+				"Git: Diff Current File"
+			],
+			[
+				"git log c",
+				"Git: Log Current File"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"delete cur",
+				"ANF: Delete Current File"
+			],
+			[
+				"delet ecu",
+				"ANF: Delete Current File"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"delte",
+				"ANF: Delete Current File"
+			],
+			[
+				"delte ",
+				"ANF: Delete Current File"
+			],
+			[
+				"delet c",
+				"ANF: Delete Current File"
+			],
+			[
+				"delte cu",
+				"ANF: Delete Current File"
+			],
+			[
+				"move ",
+				"File: Move"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"delete cu",
+				"ANF: Delete Current File"
+			],
+			[
+				"delete ",
+				"ANF: Delete Current File"
+			],
+			[
+				"lgc",
+				"Git: Log Current File"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"git lgo",
+				"Git: Log Current File"
+			],
+			[
+				"delete cure",
+				"ANF: Delete Current File"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"delete curr",
+				"ANF: Delete Current File"
+			],
+			[
+				"DELETE C",
+				"ANF: Delete Current File"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"renaem",
+				"File: Rename"
+			],
+			[
+				"new ",
+				"ANF: New File"
+			],
+			[
+				"new file",
+				"ANF: New File"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git log cur",
+				"Git: Log Current File"
+			],
+			[
+				"git diff cur",
+				"Git: Diff Current File"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"git diff cu",
+				"Git: Diff Current File"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git dif c",
+				"Git: Diff Current File"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"delte cur",
+				"ANF: Delete Current File"
+			],
+			[
+				"syntax les",
+				"Set Syntax: LESS"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"lsit pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packagenin",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"update pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"prety",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"delet ",
+				"ANF: Delete Current File"
+			],
+			[
+				"log curr",
+				"Git: Log Current File"
+			],
+			[
+				"dele c",
+				"ANF: Delete Current File"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"git dif cc",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git current file",
+				"Git: Log Current File"
+			],
+			[
+				"diff curr",
+				"Git: Diff Current File"
+			],
+			[
+				"preti",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"insallp",
+				"Package Control: Install Package"
+			],
+			[
+				"dele cur",
+				"ANF: Delete Current File"
+			],
+			[
+				"curr",
+				"Git: Add Current File"
+			],
+			[
+				"diff cu",
+				"Git: Diff Current File"
+			],
+			[
+				"dif cu",
+				"Git: Diff Current File"
+			],
+			[
+				"pretti",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"delet ecurrent",
+				"ANF: Delete Current File"
+			],
+			[
+				"instlal p",
+				"Package Control: Install Package"
+			],
+			[
+				"instlal pack",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"PRETTI",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"new f",
+				"ANF: New File"
+			],
+			[
+				"prettify",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"dele curr",
+				"ANF: Delete Current File"
+			],
+			[
+				"prettiy",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git log curr",
+				"Git: Log Current File"
+			],
+			[
+				"git diff curr",
+				"Git: Diff Current File"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 596.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/geps/dev/training/js_react/relay-treasurehunt"
+	],
+	"file_history":
+	[
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/User/TernJS.sublime-settings",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime/Tern.sublime-keymap",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/geps/dev/training/js_react/relay-treasurehunt/data/database.js",
+		"/Users/geps/dev/training/js_react/relay-treasurehunt/data/schema.js",
+		"/Users/geps/dev/training/js_react/d3react/package.json",
+		"/Users/geps/dev/training/codinggame/tutorial.js",
+		"/Users/geps/dev/training/codinggame/tutorial.go",
+		"/Users/geps/dev/training/codinggame/heat_detector.go",
+		"/Users/geps/dev/dockers/mongo/Dockerfile",
+		"/Users/geps/dev/go/src/github.com/go-martini/martini/martini.go",
+		"/Users/geps/dev/go/src/github.com/Igosuki/restful-go/signatures/signatures_suite_test.go",
+		"/Users/geps/dev/go/src/github.com/martini-contrib/render/render.go",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/geps/dev/training/go/restful-go/README.md",
+		"/Users/geps/dev/src/nexkap/nexkap-chef/cookbooks/finexkap_front/definitions/finexkap_rails_app.rb",
+		"/Users/geps/dev/src/nexkap/nexkap-chef/cookbooks/jenkins_finexkap/templates/default/jobs/nexkap_front_api_pr.xml.erb",
+		"/Users/geps/dev/src/nexkap/nexkap-chef/topology/includes/apps_finexkap_front.yml",
+		"/Users/geps/dev/src/nexkap/nexkap-chef/deployment/rails/Capfile",
+		"/Users/geps/dev/src/nexkap/nexkap-chef/Capfile",
+		"/Users/geps/dev/src/nexkap/nexkap_core/spec/mailers/template_mailer_spec.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_core/app/models/document.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_core/app/models/concerns/has_document.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_core/app/uploaders/document_uploader.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_core/lib/tools/encryption.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/deploy/production.rb",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/core/db.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/send/sending_csv.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/test/test_config.json",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/model/note.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/util/util.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/core/core.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/core/dal.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/migrations/migrations.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/model/db.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/model/dal.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/model/sgss.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/db/utils.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/sgss_note_sender",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/notes/notes.go",
+		"/Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/notes_csv/send",
+		"/Users/geps/dev/src/nexkap/sgss_note_sender/model/model.go",
+		"/Users/geps/dev/src/nexkap/sgss_note_sender/main.go",
+		"/Users/geps/dev/src/nexkap/sgss_note_sender/util/util.go",
+		"/Users/geps/dev/src/nexkap/nexkap_front/Rakefile",
+		"/Users/geps/dev/src/nexkap/nexkap_front/package.json",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/database.yml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/initializers/asset_manifest.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/application.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/assets/javascripts/static_app/main.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/assets/javascripts/app/main.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulp/config.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulp/scripts.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulpfile.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config.ru",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/jspm/node_modules/systemjs-builder/lib/arithmetic.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/jspm/api.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/jspm/node_modules/systemjs/node_modules/es6-module-loader/dist/es6-module-loader.src.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/jspm/node_modules/systemjs/dist/system.src.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/jspm/node_modules/systemjs-builder/lib/builder.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/system.config.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/systemjs-builder/lib/builder.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/systemjs-builder/lib/arithmetic.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulp/config.js.orig",
+		"/Users/geps/dev/src/nexkap/nexkap_front/system.config.js.orig",
+		"/Users/geps/dev/src/nexkap/nexkap_front/assets/javascripts/app/directives/typeahead.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulp/dist.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/node_modules/rsvp/dist/rsvp.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulp/images.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulp/rails.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/views/layouts/application.html.slim",
+		"/Users/geps/dev/src/nexkap/nexkap_front/gulp/copy.js",
+		"/Users/geps/dev/src/nexkap/samsa-go/README.md",
+		"/Users/geps/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/geps/dev/src/nexkap/samsa-go/samsa-el.md",
+		"/Users/geps/dev/src/nexkap/samsa-go/samsa/samsa.go",
+		"/Users/geps/dev/src/nexkap/samsa-go/main.go",
+		"/Users/geps/dev/src/nexkap/samsa-go/samsa-go.sublime-workspace",
+		"/Users/geps/dev/src/nexkap/samsa-go/samsa-go.sublime-project",
+		"/Users/geps/dev/src/nexkap/samsa-go/.gitignore",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/assets/javascripts/authentication/link_method_directive.js.coffee",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/views/wizard/_clients.html.haml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/cgu.yml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/vendor/assets/bower/angular-ui-select/examples/demo-bind-to-single-property.html",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/environments/development.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/views/seller_contacts/_table_with_forms.html.haml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/environments/staging.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/spec/features/edit_user_spec.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/vendor/assets/bower/bourbon/lib/bourbon/engine.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/controllers/invoices_controller.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/vendor/assets/javascripts/i18n/i18n_nb.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/i18n-js.yml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/Gemfile",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/views/funding_requests/show.html.haml.orig",
+		"/Users/geps/dev/src/nexkap/nexkap_front/spec/javascripts/base/angular_spec.js.coffee",
+		"/Users/geps/dev/src/nexkap/nexkap_front/vendor/assets/bower/jquery/src/manipulation/_evalUrl.js",
+		"/Users/geps/dev/src/nexkap/nexkap_front/vendor/assets/javascripts/i18n/i18n_es-VE.js",
+		"/opt/rubies/2.1.0/lib/ruby/gems/2.1.0/gems/nexkap_core-1.2.0.pre.1419345383922/app/mailers/devise_mailer.rb",
+		"/opt/rubies/2.1.0/lib/ruby/gems/2.1.0/gems/nexkap_core-1.2.0.pre.1419345383922/lib/nexkap_core/engine_lib/tools/mailers/template_mailer.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/spec/features/password_forgotten_spec.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/spec/features/public_access_spec.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/doc/custom_icons/vectors/user.svg",
+		"/Users/geps/dev/src/nexkap/nexkap_front/spec/models/user_spec.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/environments/uat.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/vendor/assets/bower/animate.css-scss/_fading-exits/_fadeOutRight.scss",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/views/shared/_footer.html.haml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/locales/fr.yml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/assets/javascripts/analytics/analytics.js.coffee",
+		"/Users/geps/dev/src/nexkap/nexkap_front/spec/features/account_spec.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/views/devise/mailer/reset_password_instructions_old.html.haml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/vendor/assets/bower/intro.js/Makefile",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/initializers/mandrill.rb",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/locales/mail.yml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/views/devise/mailer/confirmation_instructions_old.html.haml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/config/locales/devise.fr.yml",
+		"/Users/geps/dev/src/nexkap/nexkap_front/app/helpers/devise_helper.rb",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/karma.conf.js",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/node_modules/karma-jasmine/lib/jasmine.js",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/misc/test-lib/es5-shim.js",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/Gruntfile.js",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/src/key-exclude/test/key-exclude_spec.es6",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/node_modules/karma-traceur-preprocessor/index.js",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/src/hook/test/hook_spec.coffee",
+		"/Users/geps/dev/src/nexkap/angular-ui-commons/misc/test-lib/angular.js"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"gulp/",
+			"gulp",
+			"app/",
+			"",
+			"*rb, *haml",
+			"",
+			"*.rb",
+			"",
+			"gulp/",
+			"*.js",
+			"*.json",
+			"*.rb",
+			"gulp/",
+			"jspm/",
+			"",
+			"assets/",
+			"",
+			"gulp/",
+			"",
+			"*yml",
+			"",
+			"node_modules/traceur/**",
+			"node_modules/traceur/*",
+			"node_modules/traceur",
+			"",
+			"*coffee",
+			"",
+			"*yml",
+			"",
+			"*yml",
+			"",
+			"*haml",
+			"",
+			"*yml",
+			"",
+			"*coffee",
+			"",
+			"pages/*haml",
+			"",
+			"pages/*haml",
+			"*scss",
+			"pages/*haml",
+			"*scss",
+			"",
+			"*scss",
+			"",
+			"*.rb",
+			"",
+			"spec/*",
+			"",
+			"*yml",
+			"",
+			"*rb",
+			"",
+			"*rb",
+			"",
+			"db/*",
+			"",
+			"lib/nexkap_core/factories/*",
+			"lib/factories/*",
+			"",
+			"*.rb",
+			"",
+			"db/*",
+			"",
+			"spec/*",
+			"",
+			"spec/*",
+			"",
+			"spec/*",
+			"",
+			"lib/*",
+			"",
+			"db/*",
+			"models/*",
+			"",
+			"config/*",
+			"",
+			"spec/*",
+			"db/*",
+			"",
+			"*.rb",
+			"*erb",
+			"",
+			"*rb",
+			"*erb,*haml",
+			"",
+			"*haml",
+			"",
+			"*scss",
+			"app/*scss",
+			"*scss",
+			"",
+			"effects/animations/*",
+			"",
+			"*haml",
+			"",
+			"*haml",
+			"",
+			"*coffee",
+			"*jscoffee",
+			"*haml",
+			"",
+			"*yml",
+			"",
+			"*yml",
+			"",
+			"*haml",
+			"",
+			"*scss",
+			"",
+			"\\",
+			"*yml",
+			"",
+			"*haml",
+			"",
+			"*scss",
+			"",
+			"*haml",
+			"",
+			"*scss",
+			"",
+			"*yml",
+			"bootstrap/*",
+			"*scss",
+			"",
+			"*haml,*scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Y",
+			"X",
+			"Y0",
+			"X0",
+			"H",
+			"W",
+			",",
+			"j, i",
+			"height",
+			"len(matrix)",
+			"i, j",
+			"latestX",
+			"width",
+			"height",
+			"strconv.Itoa(",
+			"append",
+			"matrix",
+			"bool",
+			"i ",
+			"i",
+			"assets",
+			"Public ",
+			"Personnaliser",
+			"Équipe ",
+			"localhost",
+			"history",
+			"analytics",
+			"Use",
+			"ServeHttp",
+			"classic",
+			"Classic(",
+			"snipp",
+			"front-api",
+			"frontv2",
+			"bower_enabled",
+			"bower",
+			":ref",
+			"_gulp",
+			"front_gulp",
+			"assets",
+			"bucket",
+			"SIZE_BUCKET",
+			"bucket",
+			"storage_path",
+			"assets = false",
+			"asset = false",
+			"assets = false",
+			"core",
+			"jquery",
+			"TemplateMailer",
+			"Poseidon",
+			"model.FundingRequest",
+			"model",
+			"config",
+			"NewSending",
+			"NewSendingCsv",
+			"FindNoteByFundingRequestId",
+			"CreateNote",
+			"dbUtils.",
+			"getLast",
+			"GetPaidFundingRequest",
+			"getLastSending",
+			"GetNote",
+			"CreatePaidNote",
+			"GetLabel",
+			"Siren",
+			"SQLTimestamps",
+			"db_utils",
+			"TODO",
+			"TODO: ",
+			"&newSending",
+			"NewOperations",
+			"sgssCsv",
+			"sgssCsv.Write",
+			"&aFR",
+			"createnote",
+			"sID",
+			"lastOperation",
+			"operations",
+			"aliveFundingRequestsSQL",
+			"paidFundingRequestsSQL",
+			"CreateBootstrapNote",
+			"BootstrapCsvLine",
+			"csvline",
+			"PcsvFile",
+			"notesCSV",
+			"bower install",
+			"execute install jsp",
+			"gulp",
+			"npm install -g gulp",
+			"rev",
+			"rimraf",
+			"gulp-rimraf",
+			"webpack",
+			"gulp-webpack",
+			"npm install",
+			"core",
+			"serve_static_files",
+			"precompile",
+			"config.assets",
+			"assets",
+			"asset",
+			"app/main",
+			"rev",
+			"'",
+			"traceModule",
+			"import",
+			"prototype.import",
+			"loaderImport",
+			"import",
+			"this.loader",
+			"executeConfigFile",
+			"this.loader",
+			"executeConfigFile",
+			"loadConfigSync",
+			"core",
+			"import(",
+			"function import",
+			".import",
+			",import",
+			"import",
+			"trace",
+			"buildTree",
+			"traceex",
+			"traceExpression",
+			".trace",
+			"prototype.build",
+			"loadConfig"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"db",
+			"es6",
+			"cancel!",
+			"success!",
+			"fail!",
+			"= render 'shared/mentions', content:",
+			"slice",
+			"}",
+			"{",
+			"$1:$2",
+			"$1{$2}",
+			"image_tag($2, $1",
+			"$2, $1",
+			"$1:$2",
+			"= image_tag($1)",
+			"image_tag($1)",
+			"{$1}",
+			":",
+			"{$1}",
+			" %$1.",
+			" %$1",
+			"\\s%$1",
+			"@include keyframes($1)",
+			"",
+			"input_html",
+			"tooltip-placement\" =>",
+			"\"tooltip-placement\": \"right\"",
+			"zoom-in",
+			"track-spinner-config",
+			"'track-animate' => \"'zoom-in'\"",
+			"animateCSSBuild ",
+			"animateCSSBuild",
+			".ng-flip",
+			".animation $1, $2",
+			".animation $1, $2 ->",
+			"  ",
+			"'expand-on' => \"true\"",
+			"\"",
+			"gem \"$1\"",
+			"CoreConf::Store.instance.",
+			"CoreConf::Store.instance",
+			"CoreConf::Store.\\L$1",
+			"total_accepted_value",
+			"CoreConfiguration.instance",
+			"render_fees_bill",
+			"render_settlement_notice",
+			"CoreConfiguration::MIN_INVOICE_AMOUNT",
+			"CoreConfiguration::MIN_INVOICE_DATE_INTERVAL",
+			"DEFAILLANCE_TTL",
+			"attr_fields_complete?",
+			"$1 = $2",
+			"menu-heading-text",
+			"menu-heading-special",
+			"request_new_insurance_credit_limit",
+			"sellers/data_dashboard",
+			"turnover",
+			"can_manage!",
+			"can_create!",
+			"can_manage!",
+			"SurveyCommentProcessor",
+			"voting_role",
+			"angular.module 'finexkap'\\n",
+			".widget",
+			"@first_bilan[\"$1\"]",
+			"name",
+			"D3DatasetAdapter",
+			"StatsService",
+			"D3StatsService",
+			"InvoicesValidityCtrl",
+			"9e92986055b12f715e07bf0ec2834604cc0d2b34",
+			"be_truthy",
+			"be_falsey",
+			"complete_profile?",
+			"legal_representative",
+			"count_not_blank",
+			"legal_representative.email",
+			"legal_representative.mobile",
+			"legal_representative.landline",
+			"legal_representative.lastname",
+			"legal_representative.firstname",
+			"turnover_bt",
+			"HasDefaillance",
+			"HasDefaultRisk",
+			".form-group",
+			"$1$2$5$1  pending(\"Must be transformed into a Jasmine fixture\")\\n",
+			"#login_as(admin)",
+			"$1$2$5$1  pending(\"Must be transformed into a Jasmine fixture\")\\n",
+			"$1$2$3$4  pending(\"Must be transformed into a Jasmine fixture\")\\n",
+			"$1$2$3$4\\s\\spending(\"Must be transformed into a Jasmine fixture\")\\n",
+			"$1$2\\t\\tpending(\"Must be transformed into a Jasmine fixture\")\\n",
+			"$1$2pending(\"Must be transformed into a Jasmine fixture\")\\n",
+			"#login_as(admin)",
+			".sparks",
+			"image-url$1",
+			"",
+			"\"",
+			"{'ng-bind'=>'$1'}",
+			".content",
+			".ribbon",
+			".main",
+			".hide-menu",
+			".left-panel",
+			".logo",
+			".logo-group",
+			"header.header",
+			"",
+			"\"data-confirm\" =>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "data/schema.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 80.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/geps/dev/go/src/github.com/nexkap/sgss_note_sender/send":
+	{
+		"height": 156.0
+	},
+	"output.9o:///Users/geps/dev/src/nexkap/angular-ui-commons/node_modules/karma-traceur-preprocessor":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Users/geps/dev/src/nexkap/jaguar_api":
+	{
+		"height": 98.0
+	},
+	"output.9o:///Users/geps/dev/src/nexkap/jaguar_api/src/finexkap.com":
+	{
+		"height": 367.0
+	},
+	"output.9o:///Users/geps/dev/src/nexkap/nexkap_core/app/services/eligibility":
+	{
+		"height": 98.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 98.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 144.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "relay-treasurehunt.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"shcema",
+				"data/schema.js"
+			],
+			[
+				"schema",
+				"data/schema.js"
+			],
+			[
+				"databas",
+				"data/database.js"
+			],
+			[
+				"packajon",
+				"package.json"
+			],
+			[
+				"tuto",
+				"tutorial.go"
+			],
+			[
+				"thereisn",
+				"there_is_no_spoon.go"
+			],
+			[
+				"gulpfil",
+				"gulpfile.js"
+			],
+			[
+				"systemcon",
+				"system.config.js"
+			],
+			[
+				"configjs",
+				"gulp/config.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"main",
+				"main.go"
+			],
+			[
+				"fundingreqcnotr",
+				"app/controllers/funding_requests_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"data",
+				"signatures/database.go"
+			],
+			[
+				"servett",
+				"signatures/server_test.go"
+			],
+			[
+				"signat",
+				"signatures/signatures_suite_test.go"
+			],
+			[
+				"serv",
+				"signatures/server.go"
+			],
+			[
+				"suitet",
+				"signatures/signatures_suite_test.go"
+			],
+			[
+				"watchjs",
+				"nexkap_front/gulp/watch.js"
+			],
+			[
+				"templatemail",
+				"lib/nexkap_core/engine_lib/tools/mailers/template_mailer.rb"
+			],
+			[
+				"templatemailer",
+				"spec/mailers/template_mailer_spec.rb"
+			],
+			[
+				"addfull",
+				"db/migrate/20150730073231_add_full_path_to_documents.rb"
+			],
+			[
+				"documep",
+				"app/uploaders/document_uploader.rb"
+			],
+			[
+				"encrypt",
+				"lib/tools/encryption.rb"
+			],
+			[
+				"documentupl",
+				"app/uploaders/document_uploader.rb"
+			],
+			[
+				"hasdocu",
+				"app/models/concerns/has_document.rb"
+			],
+			[
+				"document",
+				"app/models/document.rb"
+			],
+			[
+				"syste",
+				"nexkap_front/system.config.js"
+			],
+			[
+				"developmentrb",
+				"nexkap_front/config/environments/development.rb"
+			],
+			[
+				"envproduction",
+				"nexkap_front/config/environments/production.rb"
+			],
+			[
+				"production",
+				"nexkap_front/config/deploy/production.rb"
+			],
+			[
+				"development",
+				"nexkap_front/config/environments/development.rb"
+			],
+			[
+				"appslim",
+				"nexkap_front/app/views/layouts/application.html.slim"
+			],
+			[
+				"ngslim",
+				"nexkap_front/app/views/layouts/ng.html.slim"
+			],
+			[
+				"frontappslim",
+				"nexkap_front/app/views/layouts/application.html.slim"
+			],
+			[
+				"frontgemfile",
+				"nexkap_front/Gemfile"
+			],
+			[
+				"packagejson",
+				"nexkap_front/package.json"
+			],
+			[
+				"mainjs",
+				"nexkap_front/node_modules/ast-types/main.js"
+			],
+			[
+				"frontapigemfile",
+				"nexkap_front_api/Gemfile"
+			],
+			[
+				"gemfiel",
+				"nexkap_front/Gemfile"
+			],
+			[
+				"nexkapfrontapienvvar",
+				"nexkap_front_api/config/env_vars.yml"
+			],
+			[
+				"envvar",
+				"nexkap_front/config/env_vars.yml"
+			],
+			[
+				"envvardefault",
+				"nexkap_front/config/env_vars.yml.default"
+			],
+			[
+				"maingo",
+				"main.go"
+			],
+			[
+				"con",
+				"config/config.go"
+			],
+			[
+				"send",
+				"send/send.go"
+			],
+			[
+				"coredb",
+				"core/db.go"
+			],
+			[
+				"dbgo",
+				"core/db.go"
+			],
+			[
+				"dal",
+				"core/dal.go"
+			],
+			[
+				"sending",
+				"send/sending_csv.go"
+			],
+			[
+				"boot",
+				"bootstrap/bootstrap.go"
+			],
+			[
+				"note",
+				"notes/notes.go"
+			],
+			[
+				"modelutil",
+				"model/util.go"
+			],
+			[
+				"util",
+				"util/util.go"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"packagejos",
+				"package.json"
+			],
+			[
+				"rakefile",
+				"Rakefile"
+			],
+			[
+				"mailers",
+				"config/initializers/mailers.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"application",
+				"config/application.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"databaseyml",
+				"config/database.yml"
+			],
+			[
+				"nghtml",
+				"app/views/layouts/ng.html.slim"
+			],
+			[
+				"apphelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"apprb",
+				"config/application.rb"
+			],
+			[
+				"configproduction",
+				"config/environments/production.rb"
+			],
+			[
+				"rev",
+				"gulp/rev.js"
+			],
+			[
+				"scripts",
+				"gulp/scripts.js"
+			],
+			[
+				"gulpfile",
+				"gulpfile.js"
+			],
+			[
+				"sass",
+				"gulp/sass.js"
+			],
+			[
+				"config",
+				"gulp/config.js"
+			],
+			[
+				"revjs",
+				"gulp/rev.js"
+			],
+			[
+				"applicationslim",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"onfig",
+				"config.ru"
+			],
+			[
+				"systemconf",
+				"system.config.js"
+			],
+			[
+				"systme",
+				"system.config.js"
+			],
+			[
+				"typeahead",
+				"assets/javascripts/app/directives/typeahead.js"
+			],
+			[
+				"sysconfjs",
+				"system.config.js"
+			],
+			[
+				"rsvp",
+				"node_modules/rsvp/dist/rsvp.js"
+			],
+			[
+				"image",
+				"gulp/images.js"
+			],
+			[
+				"copy",
+				"gulp/copy.js"
+			],
+			[
+				"railsjs",
+				"gulp/rails.js"
+			],
+			[
+				"apphtml",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"passwrodnew",
+				"app/views/devise/passwords/new.html.haml"
+			],
+			[
+				"forgottenp",
+				"spec/features/forgotten_password_process_spec.rb"
+			],
+			[
+				"passworedit",
+				"app/views/devise/passwords/edit.html.haml"
+			],
+			[
+				"karmaconf",
+				"karma.conf.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"karmac",
+				"karma.conf.js"
+			],
+			[
+				"hoks",
+				"src/hook/test/hook.spec.coffee"
+			],
+			[
+				"hookspec",
+				"src/hook/test/hook.spec.coffee"
+			],
+			[
+				"karmacon",
+				"karma.conf.js"
+			],
+			[
+				"keyexclude",
+				"src/key-exclude/test/key-exclude.spec.es6"
+			],
+			[
+				"traruntime",
+				"misc/test-lib/traceur-runtime.js"
+			],
+			[
+				"helpers",
+				"misc/test-lib/helpers.js"
+			],
+			[
+				"es5s",
+				"misc/test-lib/es5-shim.js"
+			],
+			[
+				"pak",
+				"package.json"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"keyexc",
+				"src/key-exclude/key-exclude.es6"
+			],
+			[
+				"jshint",
+				".jshintrc"
+			],
+			[
+				"karma",
+				"karma.conf.js"
+			],
+			[
+				"bowerrc",
+				".bowerrc"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"jshnt",
+				".jshintrc"
+			],
+			[
+				"demojs",
+				"src/autosave/docs/demo.js"
+			],
+			[
+				"keyexculde",
+				"src/key-exclude/key-exclude.es6.js"
+			],
+			[
+				"gruntfil",
+				"Gruntfile.js"
+			],
+			[
+				"angularjs",
+				"misc/test-lib/angular.js"
+			],
+			[
+				"tableac",
+				"src/table-accordion/table-accordion.coffee"
+			],
+			[
+				"sellertablew",
+				"app/views/seller_contacts/_table_with_forms.html.haml"
+			],
+			[
+				"sellercontactcontr",
+				"app/assets/javascripts/ngapp/controllers/seller_contacts/seller_contacts_controller.js.coffee"
+			],
+			[
+				"client",
+				"app/views/wizard/_clients.html.haml"
+			],
+			[
+				"wizardcontro",
+				"app/assets/javascripts/ngapp/controllers/wizard/wizard_controller.js.coffee"
+			],
+			[
+				"wizshow",
+				"app/views/wizard/show.html.haml"
+			],
+			[
+				"ngdocform",
+				"app/views/shared/_ng_document_form.html.haml"
+			],
+			[
+				"ma",
+				"config/locales/mail.yml"
+			],
+			[
+				"wizardcontr",
+				"app/assets/javascripts/ngapp/controllers/wizard/wizard_controller.js.coffee"
+			],
+			[
+				"profileform",
+				"app/views/legal_representatives/_profile_form.html.haml"
+			],
+			[
+				"wizardprofile",
+				"app/views/wizard/_profile.html.haml"
+			],
+			[
+				"appscss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"selleralert",
+				"app/views/shared/_seller_alerts.html.haml"
+			],
+			[
+				"fryml",
+				"config/locales/fr.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

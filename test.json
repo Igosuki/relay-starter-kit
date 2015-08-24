@@ -1,0 +1,14 @@
+{"files":
+  [
+    {
+      "text": "import { GraphQLBoolean, GraphQLFloat, GraphQLID, GraphQLInt, GraphQLList, GraphQLNonNull, GraphQLObjectType, GraphQLSchema, GraphQLString } from 'graphql'\nimport { connectionArgs, connectionDefinitions, connectionFromArray, fromGlobalId, globalIdField, mutationWithClientMutationId, nodeDefinitions } from 'graphql-relay'\nimport { User, Widget, getUser, getViewer, getWidget, getWidgets, Game, HidingSpot, getGame, getHidingSpot, getHidingSpots, getTurnsRemaining, checkHidingSpotForTreasure } from './database'\n\nvar {nodeInterface, nodeField} = nodeDefinitions(\n  (globalId) => {\n    var {type, id} = fromGlobalId(globalId);\n    switch (type) {\n      case \"User\":\n      return getUser(id)\n      break;\n      case \"Widget\":\n      return getWidget(id)\n      break;\n      case \"Game\":\n      return getGame(id)\n      break;\n      case \"HidingSpot\":\n      return getHidingSpot(id)\n      break;\n      default:\n      null\n    }\n    if (type === 'User') {\n      return getUser(id);\n    } else if (type === 'Widget') {\n      return getWidget(id);\n    } else {\n      return null;\n    }\n  },\n  (obj) => {\n    if (obj instanceof User) {\n      return userType;\n    } else if (obj instanceof Widget)  {\n      return widgetType;\n    } else {\n      return null;\n    }\n  }\n);\n\nvar userType = new GraphQLObjectType({\n  name: 'User',\n  description: 'A person who uses our app',\n  fields: () => ({\n    id: globalIdField('User'),\n    widgets: {\n      type: widgetConnection,\n      description: 'A person's collection of widgets',\n      args: connectionArgs,\n      resolve: (_, args) => connectionFromArray(getWidgets(), args),\n    },\n  }),\n  interfaces: [nodeInterface],\n});\n\nvar widgetType = new GraphQLObjectType({\n  name: 'Widget',\n  description: 'A shiny widget',\n  fields: () => ({\n    id: globalIdField('Widget'),\n    name: {\n      type: GraphQLString,\n      description: 'The name of the widget',\n    },\n  }),\n  interfaces: [nodeInterface],\n});\n\nvar gameType = new GraphQLObjectType({\n  name: \"Game\",\n  description: \"A Game\",\n  fields: () => ({\n    id: globalIdField('Game'),\n    name: {\n      type: GraphQLString,\n      description: 'value'\n    }\n  }))\n})\n\nvar {connectionType: widgetConnection} =\n  connectionDefinitions({name: 'Widget', nodeType: widgetType});\n\nvar queryType = new GraphQLObjectType({\n  name: 'Query',\n  fields: () => ({\n    node: nodeField,\n    viewer: {\n      type: userType,\n      resolve: () => getViewer(),\n    },\n  }),\n});\n\nvar mutationType = new GraphQLObjectType({\n  name: 'Mutation',\n  fields: () => ({\n    })\n});\n\nexport var Schema = new GraphQLSchema({\n  query: queryType,\n  mutation: mutationType\n});\n",
+      "type": "full",
+      "name": "data/schema.js"
+    }
+  ],
+  "query": {
+    "lineCharPositions": true,
+    "file": "#0",
+    "end": 402, "type": "definition"
+  }
+}
